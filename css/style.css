@@ -1,7 +1,7 @@
 body{
     background: #000000;
     color: #ffffff;
-    font-family:"Times New Roman", "Arial";
+    font-family:"Times New Roman", "Arial", serif;
 }
 
 h1{
@@ -46,16 +46,14 @@ img{
     min-height: 150px; 
     color: #000000;
 }
-h2.yellow{
-    text-shadow: 4px 4px 2px #c7e2c7;
-}
+
 #green{
     background: #008000;
     text-align: left;
     padding: 25px; 
     min-height: 150px; 
 }
-p.footer{
+footer{
     text-align: center;
     padding-bottom: 10px;
     padding-right: 10px;
